@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails, HTML, CSS and JavaScript**
 
-- 📫 Reach out to me @: **mulpy1@outlook.com**
+- 📫 Reach out to me at: **garyt41@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
