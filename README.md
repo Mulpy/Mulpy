@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [rails-news-scraper](https://github.com/Mulpy/rails-news-scraper)
 
-- 🌱 I’m currently seeking to improve my skills at: **Ruby, Ruby on Rails, CSS and JavaScript.**
+- 🌱 I’m currently seeking to improve my skills at: **Ruby, Ruby on Rails, CSS and JavaScript.** and want to grow as a **back-end web developer**
 
 - 🌐 My Le Wagon final project was [Ikigai1298](https://github.com/Mulpy/ikigai1298)
 
 - 💬 Ask me about **Ruby, Ruby on Rails, HTML, CSS and JavaScript**
 
-- 📫 How to reach me **mulpy1@outlook.com**
+- 📫 Reach out to me @: **mulpy1@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
