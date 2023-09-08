@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mulpy</h1>
+<h1 align="center">Hi 👋, I'm Gary</h1>
 <h3 align="center">I am a junior back-end web developer living in Japan</h3>
 
 - 🔭 I’m currently working on [rails-news-scraper](https://github.com/Mulpy/rails-news-scraper)
